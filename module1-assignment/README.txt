@@ -1,0 +1,1 @@
+AngularJS - solution for assignment 1
