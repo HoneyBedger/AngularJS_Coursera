@@ -20,7 +20,6 @@
   function AlreadyBoughtController(ShoppingListCheckOffService) {
     var boughtCtrl = this;
     boughtCtrl.items = ShoppingListCheckOffService.getBoughtItems();
-    console.log(boughtCtrl.items);
   }
 
   function ShoppingListCheckOffService () {
